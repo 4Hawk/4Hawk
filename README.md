@@ -34,8 +34,9 @@
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-rivera-acacio-9033061b6/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shamil55649594) 
-
+[![Google Badge](https://img.shields.io/badge/Google-1DA1F2?style=for-the-badge&logo=google&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/39d835be-60a8-4b06-8999-b6a756f7af51
+) 
+[![Google Badge](https://img.shields.io/badge/Microsoft-1DA1F2?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/es-es/users/shamilriveraacacio-9678/achievements?tab=tab-modules) 
 
 > Every morning brings new opportunities to build a better world.
 
