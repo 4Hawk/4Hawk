@@ -16,7 +16,6 @@
     <td><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML Logo" width="50" height="50"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java Logo" width="50" height="50"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript Logo" width="50" height="50"/></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="FIGMA Logo" width="50" height="50"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySql Logo" width="50" height="50"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Logo" width="50" height="50"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="PowerBI Logo" width="50" height="50"/></td>
@@ -25,7 +24,7 @@
 
 <h2 align="left">:grin: About Me:</h2>
 
-- :computer: I'm currently studying at USIL University
+- :computer: Bachelor in Computer and Systems Engineering
 - :hourglass_flowing_sand:  Exploring Machine Learning & Deep Learning
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Autodidact
@@ -34,7 +33,7 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-rivera-9033061b6/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamil-rivera-acacio-9033061b6/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Shamil55649594) 
 
 
